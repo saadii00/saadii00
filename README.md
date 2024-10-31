@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💼 I'm currently working on UG Seen, using MERN Stack, a platform for content creators where the can market themselves.<br>🤖 I'm looking to collaborate on Machine Learning/AI/DL/NN Projects.<br>🌱 I'm currently learning AI/Machine Learning.<br>💬 Ask me about anything machine related<br>⚡ Fun fact: I can install windows and fix your printer.
+🧑‍💼 I'm currently working on UG Seen, using MERN stack, a platform for content creators where the can market themselves.<br>🤖 I'm looking to collaborate on Machine Learning/AI/DL/NN Projects.<br>🌱 I'm currently learning AI/Machine Learning.<br>💬 Ask me about anything machine related<br>⚡ Fun fact: I can install windows and fix your printer.
 
 
 ## 🌐 Socials:
